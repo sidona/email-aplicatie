@@ -1,0 +1,98 @@
+
+/* ========================= DIV =====================*/
+#lista {
+
+    clear:both;
+    width:500px;
+    float:center;
+    margin: 100 400 500px;
+    border-radius:15px;/*marginile ovale*/
+    box-shadow:0px 0px 8px #123456;
+    height:500px;
+    background: -moz-linear-gradient(right, rgba(255,0,0,0), rgb(95, 185, 255)); /* pentru firefox */
+    background: linear-gradient(to right, rgba(255,0,0,0), rgb(46, 119, 255)); /* standard*/
+}
+.textbox#inputEmail{
+
+    color: #a3251d;
+
+}
+.textbox {
+
+    border: 1px solid #3a1d41;
+    color: #252a5d;
+    height: 30px;
+    width: 250px;
+    padding:10px;
+    text-align: left;
+    border-radius:1px;
+    -webkit-border-radius:1px;
+    -moz-border-radius:1px;
+    box-shadow:0px 0px 8px #2F4519;
+    -moz-box-shadow:0px 0px 8px #2F4519;
+    -webkit-box-shadow:0px 0px 8px #2F4519;
+    margin: 20 20 30px
+;
+}
+input#login_button {
+    background-color: #ef554d;
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:8px;
+    border:1px solid #057fd0;
+    color:#ffffff;
+    padding:8px;
+    margin-top:15px;
+}
+
+
+
+.form-group{
+    background-color: #eef54d;
+}
+
+
+
+/* ========================= HREF =====================*/
+
+h1 {
+    color: #2a75c8;
+    font-size:26px;
+    font-weight:100;
+    text-shadow:rgba(55, 55, 55, 0.74902) 0 1px 1px;
+    line-height:40px;
+    margin:0 0 7px;
+    padding:0;
+}
+h1 {
+
+    color: #edfef1;
+    text-align: left;
+    margin: 5 10 10px;
+}
+h2 {
+    font-size: 16px;
+    font-weight:normal;
+    color: #8b6d11;
+    line-height:1.5;
+    margin: 0 0 14px;
+}
+h3
+{
+    color: #8b8012;
+    text-align: center;
+    margin: auto;
+
+}
+.table-striped
+{
+    clear:both;
+    width:600px;
+    float:center;
+    margin: 100 400 400px;
+    border-radius:15px;/*marginile ovale*/
+    box-shadow:0px 0px 8px #123456;
+    height:200px;
+    background-color: #b7d9dc;
+
+}
